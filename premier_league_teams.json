@@ -1,82 +1,22 @@
-[
-  [
-    "Chelsea",
-    "CHE"
-  ],
-  [
-    "Bournemouth",
-    "BOU"
-  ],
-  [
-    "Crystal Palace",
-    "CRY"
-  ],
-  [
-    "Watford",
-    "WAT"
-  ],
-  [
-    "Manchester United",
-    "MUN"
-  ],
-  [
-    "Tottenham Hotspur",
-    "TOT"
-  ],
-  [
-    "Everton",
-    "EVE"
-  ],
-  [
-    "Wolverhampton Wanderers",
-    "WOL"
-  ],
-  [
-    "Arsenal",
-    "ARS"
-  ],
-  [
-    "Burnley",
-    "BUR"
-  ],
-  [
-    "Liverpool",
-    "LIV"
-  ],
-  [
-    "Manchester City",
-    "MCI"
-  ],
-  [
-    "Southampton",
-    "SOU"
-  ],
-  [
-    "West Ham United",
-    "WHU"
-  ],
-  [
-    "Leicester City",
-    "LEI"
-  ],
-  [
-    "Newcastle United",
-    "NEW"
-  ],
-  [
-    "Brighton and Hove Albion",
-    "BHA"
-  ],
-  [
-    "Cardiff City",
-    "CAR"
-  ],
-  [
-    "Fulham",
-    "FUL"
-  ],
-  [
-    "Huddersfield Town",
-    "HUD"
-  ]
-]
+{
+  "Everton": "EVE",
+  "Wolverhampton Wanderers": "WOL",
+  "Manchester City": "MCI",
+  "Cardiff City": "CAR",
+  "Liverpool": "LIV",
+  "Crystal Palace": "CRY",
+  "Tottenham Hotspur": "TOT",
+  "Fulham": "FUL",
+  "Burnley": "BUR",
+  "Arsenal": "ARS",
+  "Newcastle United": "NEW",
+  "Huddersfield Town": "HUD",
+  "Chelsea": "CHE",
+  "Manchester United": "MUN",
+  "Leicester City": "LEI",
+  "West Ham United": "WHU",
+  "Watford": "WAT",
+  "Bournemouth": "BOU",
+  "Southampton": "SOU",
+  "Brighton & Hove Albion": "BHA"
+}
