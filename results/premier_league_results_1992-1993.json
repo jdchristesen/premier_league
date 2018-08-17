@@ -1,0 +1,6507 @@
+[
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Tuesday 11 May 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 3,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 11 May 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 9 May 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 9 May 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 4,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 4,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 5,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "2-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 6,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "6-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 8 May 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Thursday 6 May 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 5 May 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Wednesday 5 May 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 3,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 5 May 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "date": "Tuesday 4 May 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Tuesday 4 May 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "D",
+      "team": "QPR"
+    },
+    "date": "Tuesday 4 May 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Monday 3 May 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "date": "Sunday 2 May 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "D",
+      "team": "QPR"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 1 May 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 21 April 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "date": "Wednesday 21 April 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Wednesday 21 April 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 21 April 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "date": "Wednesday 21 April 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 21 April 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 20 April 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Monday 19 April 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 3,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Sunday 18 April 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 17 April 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 14 April 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 4,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "date": "Tuesday 13 April 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "D",
+      "team": "Oldham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 5,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 2,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 5,
+      "result": "W",
+      "team": "QPR"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "3-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 4,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Monday 12 April 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 3,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 4,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 5,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 10 April 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Friday 9 April 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Friday 9 April 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 4,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Friday 9 April 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 7 April 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Wednesday 7 April 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "D",
+      "team": "Oldham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Tuesday 6 April 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Tuesday 6 April 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Tuesday 6 April 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 5 April 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 4 April 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "D",
+      "team": "QPR"
+    },
+    "date": "Saturday 3 April 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 3 April 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 3 April 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 3 April 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 4,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 3 April 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 6,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "6-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 3 April 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 2,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 3,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 24 March 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Tuesday 23 March 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 3,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "date": "Monday 22 March 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Sunday 21 March 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 3,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "D",
+      "team": "QPR"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "D",
+      "team": "Oldham"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 20 March 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "date": "Wednesday 17 March 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Monday 15 March 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 14 March 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 3,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "L",
+      "team": "QPR"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 13 March 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Wednesday 10 March 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "date": "Wednesday 10 March 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Wednesday 10 March 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Wednesday 10 March 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Wednesday 10 March 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 10 March 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Tuesday 9 March 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 9 March 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 9 March 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Sunday 7 March 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 6 March 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 6 March 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 3,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 6 March 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 3 March 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 3 March 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 3 March 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Wednesday 3 March 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 2 March 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 6,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "6-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 2 March 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Monday 1 March 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 28 February 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "D",
+      "team": "Oldham"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 27 February 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Wednesday 24 February 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 24 February 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Tuesday 23 February 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Monday 22 February 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 21 February 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 2,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 20 February 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 13 February 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 13 February 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 13 February 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Wednesday 10 February 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 10 February 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Wednesday 10 February 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Wednesday 10 February 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 10 February 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 9 February 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "D",
+      "team": "QPR"
+    },
+    "date": "Tuesday 9 February 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Monday 8 February 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Sunday 7 February 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 3,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "D",
+      "team": "QPR"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 3,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 6 February 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Tuesday 2 February 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 31 January 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "W",
+      "team": "QPR"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 2,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 30 January 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "date": "Wednesday 27 January 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 27 January 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "D",
+      "team": "QPR"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 27 January 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 4,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Wednesday 27 January 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Wednesday 27 January 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Tuesday 26 January 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 26 January 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 5,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Tuesday 26 January 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "2-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Tuesday 26 January 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 23 January 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 18 January 1993",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "L",
+      "team": "QPR"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 17 January 1993",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 5,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 3,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 3,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 16 January 1993",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Sunday 10 January 1993",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "W",
+      "team": "QPR"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 9 January 1993",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 4,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 5,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Monday 28 December 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 3,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 26 December 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "date": "Monday 21 December 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Sunday 20 December 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Sunday 20 December 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 5,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 19 December 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 13 December 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 5,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "L",
+      "team": "QPR"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 3,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 12 December 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Friday 11 December 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Monday 7 December 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Sunday 6 December 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 3,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 4,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 5 December 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Sunday 29 November 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 4,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 28 November 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Monday 23 November 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 22 November 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 21 November 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "date": "Monday 9 November 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Sunday 8 November 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "W",
+      "team": "QPR"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 7 November 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Monday 2 November 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Sunday 1 November 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 31 October 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Sunday 25 October 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Sunday 25 October 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "D",
+      "team": "Oldham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 24 October 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Wednesday 21 October 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "W",
+      "team": "Nott'm Forest"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Monday 19 October 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 18 October 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 1,
+      "result": "L",
+      "team": "QPR"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 17 October 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 4 October 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 1,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 4,
+      "result": "W",
+      "team": "QPR"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 2,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 4,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 7,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "7-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 3 October 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Monday 28 September 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Sunday 27 September 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 0,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "D",
+      "team": "QPR"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 3,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 26 September 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Monday 21 September 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "D",
+      "team": "Nott'm Forest"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 20 September 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 3,
+      "result": "D",
+      "team": "QPR"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 4,
+      "result": "W",
+      "team": "Oldham"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 19 September 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 4,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Tuesday 15 September 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Monday 14 September 1992",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 13 September 1992",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t52",
+      "goals": 2,
+      "result": "W",
+      "team": "QPR"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t49",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t105",
+      "goals": 2,
+      "result": "D",
+      "team": "Oldham"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 12 September 1992",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Sunday 6 September 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 3,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t52",
+      "goals": 0,
+      "result": "D",
+      "team": "QPR"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t105",
+      "goals": 0,
+      "result": "L",
+      "team": "Oldham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t49",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Utd"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t17",
+      "goals": 1,
+      "result": "L",
+      "team": "Nott'm Forest"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 4,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 5 September 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 2 September 1992",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 2 September 1992",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  }
+]

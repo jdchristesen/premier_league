@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html>
 <header>
-	<script src="get_data.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="season_schedule.js"></script>
+    <link rel="stylesheet" href="generic_style.css">
 </header>
-	<body>
-	<h1>Premier League Data</h1>
-	<p id="demo">Place Holder</p>
-	<button type="button" onclick="get_team_list()">Try it</button>
-	</body>
+<body>
+	<h4>Premier League Table</h4>
+    <select id="schedule_year_dropdown" onchange="change_schedule_year(this);">
+    </select>
+	<table style="text-align:center" id="schedule_table">
+		<tbody>
+            <tr>
+                <th>Match Day</th>
+                <th>Team</th>
+                <th>Date</th>
+                <th>2017/18</th>
+                <th>2018/19</th>
+                <th>Current Points</th>
+                <th>Difference</th>
+                <th>Predicted Points</th>
+            </tr>
+        </tbody>
+	</table>
+</body>
 </html>

@@ -1,0 +1,6183 @@
+[
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "D",
+      "team": "Derby"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 11 May 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 8 May 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 8 May 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Monday 29 April 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 28 April 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 2,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 27 April 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Wednesday 24 April 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Wednesday 24 April 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Tuesday 23 April 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Tuesday 23 April 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Sunday 21 April 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 20 April 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 13 April 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 13 April 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 13 April 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 13 April 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 13 April 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 13 April 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 10 April 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Monday 8 April 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Sunday 7 April 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 4,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 6 April 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Tuesday 2 April 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 2,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Monday 1 April 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "3-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 30 March 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Friday 29 March 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 6,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "6-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 24 March 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 24 March 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 23 March 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 23 March 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 23 March 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 23 March 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 4,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 23 March 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "3-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 23 March 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Monday 18 March 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 17 March 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 17 March 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 5,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "3-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Saturday 16 March 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 13 March 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Wednesday 13 March 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 9 March 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Wednesday 6 March 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Wednesday 6 March 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Wednesday 6 March 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Wednesday 6 March 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 6 March 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 6 March 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Tuesday 5 March 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Tuesday 5 March 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Tuesday 5 March 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Sunday 3 March 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 3 March 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 2 March 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 24 February 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Sunday 24 February 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 23 February 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 23 February 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 23 February 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 23 February 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Saturday 23 February 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 23 February 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Tuesday 19 February 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 10 February 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 10 February 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 6,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-6"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 9 February 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 3 February 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Sunday 3 February 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 2 February 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 30 January 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Tuesday 29 January 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 29 January 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Tuesday 29 January 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 23 January 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Tuesday 22 January 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Monday 21 January 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 20 January 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 5,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 20 January 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 3,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Saturday 19 January 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 13 January 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 13 January 2002",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 4,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 12 January 2002",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Wednesday 9 January 2002",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Wednesday 2 January 2002",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 2 January 2002",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 3,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Tuesday 1 January 2002",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 30 December 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 5,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 3,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 29 December 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 3,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 4,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 26 December 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Sunday 23 December 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 5,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 23 December 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 6,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "6-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 4,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "3-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 22 December 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Wednesday 19 December 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Tuesday 18 December 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Monday 17 December 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Sunday 16 December 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 16 December 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 15 December 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Wednesday 12 December 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 5,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Wednesday 12 December 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Sunday 9 December 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 9 December 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 9 December 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 9 December 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Saturday 8 December 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 8 December 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 8 December 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 8 December 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 8 December 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 8 December 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 3,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 5 December 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Wednesday 5 December 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Monday 3 December 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Sunday 2 December 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Sunday 2 December 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 1 December 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Sunday 25 November 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Sunday 25 November 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 25 November 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 25 November 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 24 November 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 24 November 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 24 November 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 24 November 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 24 November 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Saturday 24 November 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 4,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Monday 19 November 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 4,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "4-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 18 November 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Sunday 18 November 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 2,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Sunday 18 November 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 17 November 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 17 November 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 17 November 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 17 November 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 17 November 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 17 November 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 4 November 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Sunday 4 November 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Sunday 4 November 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 4,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Sunday 4 November 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 3 November 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Saturday 3 November 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 3 November 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 3 November 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 3 November 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 5,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 3 November 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Monday 29 October 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Sunday 28 October 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 2,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 28 October 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 27 October 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 24 October 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 3,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Wednesday 24 October 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Wednesday 24 October 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Monday 22 October 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Sunday 21 October 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 21 October 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 21 October 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 20 October 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 20 October 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 20 October 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 20 October 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 20 October 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 20 October 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Monday 15 October 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 14 October 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 7,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "7-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Sunday 14 October 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 4,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 13 October 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 30 September 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 30 September 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 30 September 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Sunday 30 September 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 5,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 29 September 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "3-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 29 September 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 29 September 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 5,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 29 September 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 29 September 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 2,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "date": "Saturday 29 September 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Wednesday 26 September 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Monday 24 September 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Sunday 23 September 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 23 September 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 23 September 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 22 September 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 2,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 22 September 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 22 September 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Saturday 22 September 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 22 September 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 22 September 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Wednesday 19 September 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 19 September 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Monday 17 September 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 16 September 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Sunday 16 September 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "date": "Sunday 16 September 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 16 September 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 15 September 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 15 September 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 4,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 15 September 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 15 September 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 15 September 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 15 September 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Sunday 9 September 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Sunday 9 September 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 4,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 1,
+      "result": "D",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 8 September 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Monday 27 August 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 26 August 2001",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "D",
+      "team": "Sunderland"
+    },
+    "date": "Sunday 26 August 2001",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "D",
+      "team": "Derby"
+    },
+    "date": "Saturday 25 August 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t56",
+      "goals": 0,
+      "result": "L",
+      "team": "Sunderland"
+    },
+    "date": "Wednesday 22 August 2001",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 22 August 2001",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Tuesday 21 August 2001",
+    "home_team": {
+      "badge": "badge-25 t40",
+      "goals": 3,
+      "result": "W",
+      "team": "Ipswich"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 21 August 2001",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Tuesday 21 August 2001",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Monday 20 August 2001",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 19 August 2001",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Sunday 19 August 2001",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t40",
+      "goals": 0,
+      "result": "L",
+      "team": "Ipswich"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t56",
+      "goals": 1,
+      "result": "W",
+      "team": "Sunderland"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 5,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 18 August 2001",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-2"
+  }
+]

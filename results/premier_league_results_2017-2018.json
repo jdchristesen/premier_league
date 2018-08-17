@@ -1,0 +1,6181 @@
+[
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 4,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "date": "Sunday 13 May 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Thursday 10 May 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 9 May 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "date": "Wednesday 9 May 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 9 May 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Wednesday 9 May 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 8 May 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "date": "Sunday 6 May 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 6 May 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "date": "Sunday 6 May 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 5 May 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 5 May 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 5 May 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Saturday 5 May 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 5 May 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 5 May 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Friday 4 May 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Monday 30 April 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Sunday 29 April 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 29 April 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 5,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 28 April 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Monday 23 April 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Sunday 22 April 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 22 April 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Sunday 22 April 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 5,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 21 April 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 21 April 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "D",
+      "team": "Watford"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Thursday 19 April 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Thursday 19 April 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 18 April 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 17 April 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Monday 16 April 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 15 April 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "date": "Sunday 15 April 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 2,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 14 April 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Sunday 8 April 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Sunday 8 April 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "L",
+      "team": "Watford"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 7 April 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Sunday 1 April 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 1 April 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "D",
+      "team": "Watford"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 31 March 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 17 March 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 17 March 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 17 March 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 17 March 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Monday 12 March 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Sunday 11 March 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 11 March 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 3,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 4,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 10 March 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 5 March 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 4 March 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 2,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 4 March 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 4,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 3 March 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Thursday 1 March 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 25 February 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 25 February 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 2,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 4,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 24 February 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Monday 12 February 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Sunday 11 February 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 4,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 11 February 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 11 February 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 10 February 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 10 February 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "date": "Saturday 10 February 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "date": "Saturday 10 February 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 10 February 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 10 February 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 5,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Monday 5 February 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 4,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 4 February 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Sunday 4 February 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 3,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 3 February 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 3,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "D",
+      "team": "Watford"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Wednesday 31 January 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Tuesday 30 January 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Tuesday 30 January 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 3,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Tuesday 30 January 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Monday 22 January 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Sunday 21 January 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 20 January 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Monday 15 January 2018",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 14 January 2018",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Sunday 14 January 2018",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "D",
+      "team": "Watford"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 4,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 13 January 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Thursday 4 January 2018",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 3 January 2018",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Tuesday 2 January 2018",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 2 January 2018",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Tuesday 2 January 2018",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Tuesday 2 January 2018",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "date": "Monday 1 January 2018",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 2,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Monday 1 January 2018",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Monday 1 January 2018",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Monday 1 January 2018",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 1 January 2018",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Sunday 31 December 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 31 December 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 2,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "L",
+      "team": "Watford"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 5,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 30 December 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Thursday 28 December 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Wednesday 27 December 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 3,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Tuesday 26 December 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 3,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 23 December 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Friday 22 December 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Monday 18 December 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 17 December 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 17 December 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 4,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "L",
+      "team": "Watford"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 16 December 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 4,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Wednesday 13 December 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Tuesday 12 December 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Tuesday 12 December 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Tuesday 12 December 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 10 December 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Sunday 10 December 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Sunday 10 December 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 2,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 9 December 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Sunday 3 December 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 3 December 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 1,
+      "result": "D",
+      "team": "Watford"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "score": "1-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 2 December 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Wednesday 29 November 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Wednesday 29 November 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Wednesday 29 November 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Wednesday 29 November 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Wednesday 29 November 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Wednesday 29 November 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 4,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 28 November 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Tuesday 28 November 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Tuesday 28 November 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Tuesday 28 November 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "L",
+      "team": "Watford"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 26 November 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 26 November 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Sunday 26 November 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 25 November 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 25 November 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 3,
+      "result": "W",
+      "team": "Watford"
+    },
+    "date": "Saturday 25 November 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Saturday 25 November 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 25 November 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 25 November 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Friday 24 November 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Monday 20 November 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 2,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 19 November 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 2,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 4,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 18 November 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Sunday 5 November 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 5 November 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Sunday 5 November 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 5 November 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 4 November 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "date": "Saturday 4 November 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Saturday 4 November 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 4 November 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 4 November 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 4 November 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Monday 30 October 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Sunday 29 October 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 29 October 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 28 October 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 22 October 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "2-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 22 October 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "L",
+      "team": "Watford"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 2,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 21 October 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 3,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "date": "Friday 20 October 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Monday 16 October 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Sunday 15 October 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 15 October 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 2,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 7,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "7-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 14 October 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Sunday 1 October 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Sunday 1 October 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 1 October 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "D",
+      "team": "Watford"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "D",
+      "team": "Bournemouth"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 30 September 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Monday 25 September 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 24 September 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 1,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 5,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 23 September 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 17 September 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 17 September 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 6,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "L",
+      "team": "Watford"
+    },
+    "score": "0-6"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "date": "Saturday 16 September 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 1,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Friday 15 September 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
+      "team": "Bournemouth"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "L",
+      "team": "Huddersfield"
+    },
+    "date": "Monday 11 September 2017",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Sunday 10 September 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 10 September 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 5,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 3,
+      "result": "W",
+      "team": "Brighton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 9 September 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 2,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "D",
+      "team": "Stoke"
+    },
+    "date": "Sunday 27 August 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 27 August 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "D",
+      "team": "Burnley"
+    },
+    "date": "Sunday 27 August 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 27 August 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 26 August 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 1,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "D",
+      "team": "Brighton"
+    },
+    "date": "Saturday 26 August 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 0,
+      "result": "D",
+      "team": "Watford"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 26 August 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 26 August 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "D",
+      "team": "Huddersfield"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 2,
+      "result": "W",
+      "team": "Swansea"
+    },
+    "date": "Saturday 26 August 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 26 August 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Monday 21 August 2017",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 20 August 2017",
+    "home_team": {
+      "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 20 August 2017",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "L",
+      "team": "Swansea"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t90",
+      "goals": 0,
+      "result": "L",
+      "team": "Burnley"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t57",
+      "goals": 2,
+      "result": "W",
+      "team": "Watford"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 19 August 2017",
+    "home_team": {
+      "badge": "badge-25 t110",
+      "goals": 1,
+      "result": "W",
+      "team": "Stoke"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 13 August 2017",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 13 August 2017",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t57",
+      "goals": 3,
+      "result": "D",
+      "team": "Watford"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t91",
+      "goals": 0,
+      "result": "L",
+      "team": "Bournemouth"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t80",
+      "goals": 0,
+      "result": "D",
+      "team": "Swansea"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t110",
+      "goals": 0,
+      "result": "L",
+      "team": "Stoke"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t38",
+      "goals": 3,
+      "result": "W",
+      "team": "Huddersfield"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t90",
+      "goals": 3,
+      "result": "W",
+      "team": "Burnley"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 12 August 2017",
+    "home_team": {
+      "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
+      "team": "Brighton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Friday 11 August 2017",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-3"
+  }
+]

@@ -1,0 +1,6177 @@
+[
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 4,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 10 May 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 6 May 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Tuesday 5 May 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Monday 4 May 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 3 May 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 6,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "2-6"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 2 May 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 5,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 29 April 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Wednesday 29 April 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 29 April 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Wednesday 29 April 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 27 April 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 4,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Sunday 26 April 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 3,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 25 April 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Sunday 19 April 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 19 April 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "D",
+      "team": "Barnsley"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 18 April 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 14 April 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 4,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Monday 13 April 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "D",
+      "team": "Derby"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 11 April 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Friday 10 April 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 8 April 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Monday 6 April 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 5 April 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 4 April 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 4 April 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 4 April 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 4 April 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 4 April 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 4 April 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Tuesday 31 March 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Tuesday 31 March 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Tuesday 31 March 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Monday 30 March 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 4,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 28 March 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 18 March 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 5,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Sunday 15 March 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 4,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 14 March 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 11 March 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 11 March 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 4,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 11 March 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 6,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "6-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "date": "Wednesday 11 March 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 11 March 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 8 March 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 7 March 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 7 March 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 7 March 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 4 March 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Monday 2 March 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Sunday 1 March 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 5,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "5-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 28 February 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Monday 23 February 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Sunday 22 February 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 21 February 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Wednesday 18 February 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 18 February 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 14 February 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 14 February 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 3,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Saturday 14 February 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 3,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Monday 9 February 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 8 February 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "D",
+      "team": "Barnsley"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 7 February 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 1 February 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 5,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "1-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 31 January 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Tuesday 20 January 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Monday 19 January 1998",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 18 January 1998",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 5,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "D",
+      "team": "Derby"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 17 January 1998",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 11 January 1998",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 6,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "6-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 10 January 1998",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Monday 29 December 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 28 December 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "D",
+      "team": "Barnsley"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Friday 26 December 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 4,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 21 December 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 20 December 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "D",
+      "team": "Derby"
+    },
+    "date": "Wednesday 17 December 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Monday 15 December 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "D",
+      "team": "Derby"
+    },
+    "date": "Sunday 14 December 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 4,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "D",
+      "team": "Barnsley"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 13 December 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Monday 8 December 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Sunday 7 December 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 6,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-6"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 6 December 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 3 December 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 4,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Monday 1 December 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 30 November 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 30 November 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 3,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 29 November 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Wednesday 26 November 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Monday 24 November 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 23 November 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 5,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "2-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 22 November 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Monday 10 November 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Sunday 9 November 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 9 November 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 5,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 4,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 8 November 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Sunday 2 November 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 6,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "6-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "D",
+      "team": "Barnsley"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 1 November 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Monday 27 October 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 26 October 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 26 October 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 7,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "7-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 25 October 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Wednesday 22 October 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Monday 20 October 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Sunday 19 October 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 2,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 4,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "D",
+      "team": "Derby"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 18 October 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 2,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Monday 6 October 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 5 October 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 3,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 4 October 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Sunday 28 September 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 4,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 27 September 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 2,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 5,
+      "result": "W",
+      "team": "Derby"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "2-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Wednesday 24 September 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Tuesday 23 September 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 4,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 23 September 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Monday 22 September 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 21 September 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 4,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 0,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "date": "Saturday 20 September 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 0,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 4,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Sunday 14 September 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "3-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 3,
+      "result": "W",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 3,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 13 September 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Monday 1 September 1997",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 3,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "L",
+      "team": "Leicester"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "W",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t24",
+      "goals": 1,
+      "result": "W",
+      "team": "Derby"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 30 August 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 0,
+      "result": "L",
+      "team": "Wimbledon"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 3,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "D",
+      "team": "West Ham"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 1,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 2,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 27 August 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Tuesday 26 August 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 2,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Monday 25 August 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 7,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "7-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 6,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 24 August 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 0,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "0-6"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 0,
+      "result": "D",
+      "team": "Leicester"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 0,
+      "result": "L",
+      "team": "Leeds"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
+      "team": "West Ham"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 2,
+      "result": "D",
+      "team": "Coventry"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "D",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 23 August 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 13 August 1997",
+    "home_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t2",
+      "goals": 3,
+      "result": "W",
+      "team": "Leeds"
+    },
+    "date": "Wednesday 13 August 1997",
+    "home_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "date": "Wednesday 13 August 1997",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 4,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 13 August 1997",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Wednesday 13 August 1997",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "W",
+      "team": "Barnsley"
+    },
+    "date": "Tuesday 12 August 1997",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t9",
+      "goals": 0,
+      "result": "L",
+      "team": "Coventry"
+    },
+    "date": "Monday 11 August 1997",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 10 August 1997",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t1736",
+      "goals": 1,
+      "result": "D",
+      "team": "Wimbledon"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t19",
+      "goals": 1,
+      "result": "L",
+      "team": "Sheffield Wed"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t13",
+      "goals": 1,
+      "result": "W",
+      "team": "Leicester"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t2",
+      "goals": 1,
+      "result": "D",
+      "team": "Leeds"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t9",
+      "goals": 3,
+      "result": "W",
+      "team": "Coventry"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t24",
+      "goals": 0,
+      "result": "L",
+      "team": "Derby"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t21",
+      "goals": 2,
+      "result": "W",
+      "team": "West Ham"
+    },
+    "date": "Saturday 9 August 1997",
+    "home_team": {
+      "badge": "badge-25 t37",
+      "goals": 1,
+      "result": "L",
+      "team": "Barnsley"
+    },
+    "score": "1-2"
+  }
+]

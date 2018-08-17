@@ -1,0 +1,6192 @@
+[
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 6,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "6-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 15 May 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Wednesday 11 May 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 7,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "7-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Tuesday 10 May 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 8 May 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 7 May 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 4 May 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Monday 2 May 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 1 May 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 1 May 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 4,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 30 April 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Wednesday 27 April 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Tuesday 26 April 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Monday 25 April 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Sunday 24 April 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 4,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 24 April 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 4,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 23 April 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Wednesday 20 April 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Tuesday 19 April 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 19 April 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 16 April 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 16 April 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 16 April 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Saturday 16 April 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 16 April 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 16 April 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Sunday 10 April 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Sunday 10 April 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 4,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 10 April 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 4,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 9 April 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Sunday 3 April 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 3 April 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 2 April 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 20 March 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "date": "Sunday 20 March 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Sunday 20 March 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 4,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 19 March 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 16 March 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 16 March 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Tuesday 15 March 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Monday 7 March 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Sunday 6 March 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Sunday 6 March 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 5 March 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Monday 28 February 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Sunday 27 February 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Sunday 27 February 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 26 February 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 26 February 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 26 February 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 26 February 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 26 February 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 22 February 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Monday 14 February 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 13 February 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 12 February 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 12 February 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 12 February 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 12 February 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 12 February 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Sunday 6 February 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Sunday 6 February 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 5 February 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Wednesday 2 February 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 2 February 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Wednesday 2 February 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Wednesday 2 February 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Wednesday 2 February 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Tuesday 1 February 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 1 February 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 2,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Tuesday 1 February 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 1 February 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 3,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 4,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Tuesday 1 February 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Monday 24 January 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 23 January 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 4,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 4,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "4-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Saturday 22 January 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Sunday 16 January 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Sunday 16 January 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 3,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 15 January 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Wednesday 5 January 2005",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Tuesday 4 January 2005",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Tuesday 4 January 2005",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Tuesday 4 January 2005",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Tuesday 4 January 2005",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Tuesday 4 January 2005",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Monday 3 January 2005",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Monday 3 January 2005",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Monday 3 January 2005",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Monday 3 January 2005",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 1 January 2005",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Wednesday 29 December 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 3,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Tuesday 28 December 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 5,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "0-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 26 December 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Monday 20 December 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 19 December 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 19 December 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 4,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 5,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "5-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 18 December 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 5,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "5-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "date": "Tuesday 14 December 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Monday 13 December 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "date": "Sunday 12 December 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Sunday 12 December 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 3,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 11 December 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Monday 6 December 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Sunday 5 December 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 3,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 4 December 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Sunday 28 November 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 28 November 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 28 November 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 27 November 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Monday 22 November 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 3,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "date": "Sunday 21 November 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 3,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "3-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "W",
+      "team": "Norwich"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 20 November 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 14 November 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 3,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 14 November 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 4,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "4-5"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 4,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 13 November 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Sunday 7 November 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 4,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "date": "Sunday 7 November 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Sunday 7 November 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 3,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 3,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 2,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 6 November 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Monday 1 November 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 31 October 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 2,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "D",
+      "team": "Everton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 2,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 30 October 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "date": "Sunday 24 October 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 3,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Sunday 24 October 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 4,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "date": "Sunday 24 October 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 0,
+      "result": "L",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 24 October 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 23 October 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "2-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Saturday 23 October 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 23 October 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 3,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 23 October 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 4,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Saturday 23 October 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 23 October 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "date": "Monday 18 October 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 1,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 17 October 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 4,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "2-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 4,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "score": "0-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "L",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 16 October 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Monday 4 October 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 2,
+      "result": "W",
+      "team": "Crystal Palace"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 1,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 3 October 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 3 October 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 2,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 3 October 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "D",
+      "team": "Man City"
+    },
+    "date": "Saturday 2 October 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 2,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 2 October 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 2 October 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 2 October 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 2 October 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 2 October 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 2,
+      "result": "W",
+      "team": "West Brom"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Monday 27 September 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Sunday 26 September 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "L",
+      "team": "Spurs"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 1,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 25 September 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Monday 20 September 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "date": "Sunday 19 September 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 0,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 19 September 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Sunday 19 September 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "date": "Saturday 18 September 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "D",
+      "team": "Arsenal"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Saturday 18 September 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Saturday 18 September 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 2,
+      "result": "W",
+      "team": "Man City"
+    },
+    "date": "Saturday 18 September 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 0,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 18 September 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "W",
+      "team": "Blackburn"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "date": "Saturday 18 September 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "D",
+      "team": "Southampton"
+    },
+    "date": "Monday 13 September 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "D",
+      "team": "Charlton"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 0,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Sunday 12 September 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 0,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 3,
+      "result": "W",
+      "team": "Newcastle"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 0,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 3,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "0-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "D",
+      "team": "Bolton"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 0,
+      "result": "D",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 11 September 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 3,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "3-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 0,
+      "result": "D",
+      "team": "Everton"
+    },
+    "date": "Monday 30 August 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "result": "D",
+    "score": "0-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 3,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "date": "Monday 30 August 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 4,
+      "result": "W",
+      "team": "Portsmouth"
+    },
+    "score": "4-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 0,
+      "result": "L",
+      "team": "Liverpool"
+    },
+    "date": "Sunday 29 August 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 1,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 1,
+      "result": "D",
+      "team": "Man Utd"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 0,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 4,
+      "result": "W",
+      "team": "Man City"
+    },
+    "score": "4-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "L",
+      "team": "West Brom"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
+      "team": "Everton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 4,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "4-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Saturday 28 August 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "date": "Wednesday 25 August 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 2,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "date": "Wednesday 25 August 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "score": "1-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "W",
+      "team": "Middlesbrough"
+    },
+    "date": "Wednesday 25 August 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 0,
+      "result": "L",
+      "team": "Fulham"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 0,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Wednesday 25 August 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 2,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "date": "Wednesday 25 August 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "result": "D",
+    "score": "2-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 0,
+      "result": "L",
+      "team": "Aston Villa"
+    },
+    "date": "Wednesday 25 August 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 3,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "3-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 2,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Tuesday 24 August 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "0-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 0,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Tuesday 24 August 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "W",
+      "team": "Birmingham"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t7",
+      "goals": 1,
+      "result": "D",
+      "team": "Aston Villa"
+    },
+    "date": "Sunday 22 August 2004",
+    "home_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t25",
+      "goals": 3,
+      "result": "L",
+      "team": "Middlesbrough"
+    },
+    "date": "Sunday 22 August 2004",
+    "home_team": {
+      "badge": "badge-25 t3",
+      "goals": 5,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "score": "5-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t5",
+      "goals": 2,
+      "result": "L",
+      "team": "Blackburn"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t20",
+      "goals": 3,
+      "result": "W",
+      "team": "Southampton"
+    },
+    "score": "3-2"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "W",
+      "team": "Spurs"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "L",
+      "team": "Newcastle"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "L",
+      "team": "Man City"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
+      "team": "Liverpool"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t30",
+      "goals": 0,
+      "result": "L",
+      "team": "Bolton"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t54",
+      "goals": 2,
+      "result": "W",
+      "team": "Fulham"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t11",
+      "goals": 3,
+      "result": "W",
+      "team": "Everton"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "L",
+      "team": "Crystal Palace"
+    },
+    "score": "1-3"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "L",
+      "team": "Portsmouth"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t33",
+      "goals": 2,
+      "result": "W",
+      "team": "Charlton"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t41",
+      "goals": 0,
+      "result": "L",
+      "team": "Birmingham"
+    },
+    "score": "0-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "L",
+      "team": "Norwich"
+    },
+    "date": "Saturday 21 August 2004",
+    "home_team": {
+      "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "W",
+      "team": "Man Utd"
+    },
+    "score": "2-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t3",
+      "goals": 4,
+      "result": "W",
+      "team": "Arsenal"
+    },
+    "date": "Sunday 15 August 2004",
+    "home_team": {
+      "badge": "badge-25 t11",
+      "goals": 1,
+      "result": "L",
+      "team": "Everton"
+    },
+    "score": "1-4"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t1",
+      "goals": 0,
+      "result": "L",
+      "team": "Man Utd"
+    },
+    "date": "Sunday 15 August 2004",
+    "home_team": {
+      "badge": "badge-25 t8",
+      "goals": 1,
+      "result": "W",
+      "team": "Chelsea"
+    },
+    "score": "1-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "D",
+      "team": "Liverpool"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t6",
+      "goals": 1,
+      "result": "D",
+      "team": "Spurs"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t41",
+      "goals": 1,
+      "result": "D",
+      "team": "Birmingham"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t47",
+      "goals": 1,
+      "result": "D",
+      "team": "Portsmouth"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t31",
+      "goals": 1,
+      "result": "D",
+      "team": "Crystal Palace"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t45",
+      "goals": 1,
+      "result": "D",
+      "team": "Norwich"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "D",
+      "team": "Fulham"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
+      "team": "Man City"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t33",
+      "goals": 1,
+      "result": "L",
+      "team": "Charlton"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t30",
+      "goals": 4,
+      "result": "W",
+      "team": "Bolton"
+    },
+    "score": "4-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t35",
+      "goals": 1,
+      "result": "D",
+      "team": "West Brom"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t5",
+      "goals": 1,
+      "result": "D",
+      "team": "Blackburn"
+    },
+    "result": "D",
+    "score": "1-1"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t20",
+      "goals": 0,
+      "result": "L",
+      "team": "Southampton"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t7",
+      "goals": 2,
+      "result": "W",
+      "team": "Aston Villa"
+    },
+    "score": "2-0"
+  },
+  {
+    "away_team": {
+      "badge": "badge-25 t4",
+      "goals": 2,
+      "result": "D",
+      "team": "Newcastle"
+    },
+    "date": "Saturday 14 August 2004",
+    "home_team": {
+      "badge": "badge-25 t25",
+      "goals": 2,
+      "result": "D",
+      "team": "Middlesbrough"
+    },
+    "result": "D",
+    "score": "2-2"
+  }
+]
