@@ -108,109 +108,64 @@ def get_all_tables(**kwargs):
             table[season_key].append(team)
         with open('premier_league_tables.json'.format(season_key),'w') as fp:
             json.dump(table, fp, indent=2, sort_keys=True)
-    #
-    #     fixture_list = []
-    #
-    # print('Total Time: ', time.time() - start_time)
-    #
-    # with open('premier_league_table_{}.json'.format(str_year), 'w') as fp:
-    #     json.dump(teams, fp, indent=2)
-    #
-    # with open('premier_league_teams_links.json', 'w') as fp:
-    #     team_data = {}
-    #     for team in teams:
-    #         team_data[team['Team']] = team['link']
-    #     json.dump(team_data, fp, indent=2)
 
 
-# def caan_table(**kwargs):
-#     # plt.rcParams["figure.dpi"] = 140
-#     zoom_factor = kwargs.get('zoom_factor', 0.25)
-#     image_size = kwargs.get('image-size', 50)
-#     year = kwargs.get('year', 2018)
-#     str_year = '{}-{}'.format(year, int(str(year)[-2:]) + 1)
-#
-#     if not os.path.isfile('premier_league_table_{}.json'.format(str_year)):
-#         get_table(year=year)
-#
-#     with open('premier_league_table_{}.json'.format(str_year)) as fp:
-#         teams = json.load(fp)
-#
-#     with open('premier_league_teams.json'.format(str_year)) as fp:
-#         teams_abbr = json.load(fp)
-#
-#     fig, ax = plt.subplots()
-#     arr_img = plt.imread('images/badges-{}-sprite.png'.format(image_size),
-#                          format='png')
-#     with open('.badge-{}.json'.format(image_size)) as fp:
-#         pos = json.load(fp)
-#
-#     point_totals = {}
-#     for team in teams:
-#
-#         team_name = team.get('Team', None)
-#         print(team_name)
-#         points = team.get('Pts', None)
-#         if team_name is None or points is None:
-#             continue
-#
-#         if points in point_totals:
-#             point_totals[points] += 1
-#         else:
-#             point_totals[points] = 1
-#
-#         # Annotate the 2nd position with another image (a Grace Hopper portrait)
-#         team_pos = pos['.badge-{}.{}'.format(image_size, teams_abbr[team_name])]
-#         y = 0 - int(team_pos[0])
-#         x = 0 - int(team_pos[1])
-#         print(x, y)
-#         print(int(team_pos[0]), int(team_pos[1]))
-#         mask = np.zeros(arr_img.shape)
-#         mask[x:x + image_size, y:y + image_size] = 1
-#         m = mask > 0
-#
-#         width = 500  # pixels
-#         height = 150
-#         margin = 50  # pixels
-#         dpi = 100.  # dots per inch
-#
-#         figsize = (
-#         (width + 2 * margin) / dpi, (height + 2 * margin) / dpi)  # inches
-#         left = margin / dpi / figsize[0]  # axes ratio
-#         bottom = margin / dpi / figsize[1]
-#         image = arr_img[m].reshape((y + image_size - y, x + image_size - x, 4))
-#         plt.imshow(image, interpolation='nearest')
-#         break
-#         imagebox = OffsetImage(image)
-#         imagebox.image.axes = ax
-#
-#         ab = AnnotationBbox(imagebox, (point_totals[points], int(points)),
-#                             # xybox=(120., -80.),
-#                             xycoords='data',
-#                             # boxcoords='offset points',
-#                             frameon=False
-#                             # pad=0.5
-#                             # arrowprops=dict(
-#                             #     arrowstyle="->",
-#                             #     connectionstyle="angle,angleA=0,angleB=90,rad=3")
-#                             )
-#
-#         ax.add_artist(ab)
-#         # ax.add_artist(imagebox)
-#
-#     # Fix the display limits to see everything
-#     # xlim = -1
-#     # ylim = -1
-#     # for key, value in point_totals.items():
-#     #     xlim = max(xlim, value)
-#     #     ylim = max(ylim, int(key))
-#     # ax.set_xlim(0, xlim)
-#     # ax.set_ylim(0, ylim)
-#     # ax.spines['top'].set_visible(False)
-#     # ax.spines['right'].set_visible(False)
-#     # ax.spines['bottom'].set_visible(False)
-#     # ax.spines['left'].set_visible(False)
-#     plt.show()
+def update_table(**kwargs):
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+    import time
+    start_time = time.time()
+
+    # --| Setup
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument('--disable-gpu')
+    chrome_options.add_argument('--log-level=3')
+    browser = webdriver.Chrome(chrome_options=chrome_options,
+                               executable_path=r'chromedriver')
+
+    table = []
+    base_url = 'https://www.premierleague.com/tables'
+    browser.get(base_url)
+    time.sleep(1)
+    start_year = 2018
+    end_year = 2019
+    season_key = '{}-{}'.format(start_year, end_year)
+
+    with open('premier_league_tables.json') as fp:
+        tables = json.load(fp)
+
+    print(season_key)
+
+    table_html = browser.find_element_by_tag_name('table')
+    rows = table_html.find_elements_by_tag_name('tr')
+    while len(rows) < 20:
+        table_html = browser.find_element_by_tag_name('table')
+        rows = table_html.find_elements_by_tag_name('tr')
+
+    for row in rows:
+        if row.get_attribute('data-compseason') != '210':
+            continue
+        team_data = row.text.split('\n')[1].split()
+        badge = row.find_element_by_xpath('.//span[starts-with(@class, "badge")]').get_attribute('class').split()[1]
+        print(badge)
+        team = {'badge': badge,
+                'place': int(row.text.split('\n')[0]),
+                'team': ' '.join(team_data[:-8]),
+                'played': int(team_data[-8]),
+                'won': int(team_data[-7]),
+                'drawn': int(team_data[-6]),
+                'lost': int(team_data[-5]),
+                'gf': int(team_data[-4]),
+                'ga': int(team_data[-3]),
+                'gd': int(team_data[-2]),
+                'points': int(team_data[-1])
+                }
+        table.append(team)
+
+    tables[season_key] = table
+    with open('premier_league_tables.json'.format(season_key),'w') as fp:
+        json.dump(tables, fp, indent=2, sort_keys=True)
 
 
 def team_seasons(**kwargs):
@@ -460,7 +415,6 @@ def get_all_fixtures(**kwargs):
             if home_score == away_score:
                 home_team['result'] = 'D'
                 away_team['result'] = 'D'
-                result['result'] = 'D'
             elif home_score > away_score:
                 home_team['result'] = 'W'
                 away_team['result'] = 'L'
@@ -489,6 +443,106 @@ def get_all_fixtures(**kwargs):
     print('Total Time: ', time.time() - start_time)
 
 
+def update_fixtures(**kwargs):
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+    import time
+    start_time = time.time()
+
+    # --| Setup
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument('--disable-gpu')
+    chrome_options.add_argument('--log-level=3')
+    browser = webdriver.Chrome(chrome_options=chrome_options,
+                               executable_path=r'chromedriver.exe')
+
+    base_url = 'https://www.premierleague.com/'
+    start_year = 2018
+    end_year = 2019
+    current_season_key = '{}-{}'.format(start_year, end_year)
+
+    with open('results\\premier_league_results_{}.json'.format(current_season_key)) as fp:
+        current_results = json.load(fp)
+
+    results_dict = {}
+    for i, result in enumerate(current_results):
+        key = '{}-{}'.format(result['home_team']['team'], result['away_team']['team'])
+        results_dict[key] = [i, True if 'score' in result else False]
+
+    browser.get(base_url + 'fixtures')
+    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+    print(current_season_key)
+    start_year -= 1
+    end_year -= 1
+    browser.get(base_url + 'results?co=1&se={}'.format('210'))
+    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+    results = browser.find_element_by_class_name('fixtures')
+    results = results.find_elements_by_class_name('matchFixtureContainer')
+    count = -1
+    while len(results) != count:
+        count = len(results)
+        time.sleep(2)
+        results = browser.find_element_by_class_name('fixtures')
+        results = results.find_elements_by_class_name('matchFixtureContainer')
+
+    print(len(results))
+    for r in results:
+        result = {}
+        parent = r.find_element_by_xpath('..')
+        grand_parent = parent.find_element_by_xpath('..')
+        date = grand_parent.get_attribute('data-competition-matches-list')
+        result['date'] = date
+        split = r.text.split('\n')
+        result['score'] = split[1]
+        home_score = int(split[1].split('-')[0])
+        away_score = int(split[1].split('-')[1])
+
+        # Check if the game already has a result and is in the list
+        key = '{}-{}'.format(split[0], split[2])
+        if key not in results_dict:
+            continue
+        if results_dict[key][1]:
+            continue
+
+
+        home_team = {'team': split[0],
+                     'goals': home_score}
+        away_team = {'team': split[2],
+                     'goals': away_score}
+        if home_score == away_score:
+            home_team['result'] = 'D'
+            away_team['result'] = 'D'
+        elif home_score > away_score:
+            home_team['result'] = 'W'
+            away_team['result'] = 'L'
+        else:
+            home_team['result'] = 'L'
+            away_team['result'] = 'W'
+
+        badges = r.find_elements_by_tag_name('span')
+        home = True
+        for badge in badges:
+            if 'badge' in badge.get_attribute('class'):
+                if home:
+                    home_team['badge'] = badge.get_attribute('class')
+                    home = False
+                else:
+                    away_team['badge'] = badge.get_attribute('class')
+
+        result['home_team'] = home_team
+        result['away_team'] = away_team
+        current_results[results_dict[key][0]] = result
+        print(result)
+
+    with open('results\\premier_league_results_{}.json'.format(current_season_key), 'w') as fp:
+        json.dump(current_results, fp, indent=2, sort_keys=True)
+
+    print('Total Time: ', time.time() - start_time)
+
+
 if __name__ == "__main__":
     # get_table()
     # caan_table_pyqt5(year=2018, image_size=25)
@@ -498,4 +552,14 @@ if __name__ == "__main__":
 
     # get_team_names()
     # get_all_fixtures()
-    get_all_tables()
+    # get_all_tables()
+    # update_fixtures()
+    # update_table()
+
+    base_url = 'https://www.premierleague.com/resources/ver/'
+    with urllib.request.urlopen(base_url + 'styles/badge-abbreviations.css') as response:
+        html = response.read()
+        print(html.decode())
+
+    with open('badge-abbreviations.css', 'w') as fp:
+        fp.write(html.decode())

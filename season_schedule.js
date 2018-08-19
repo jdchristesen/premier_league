@@ -72,11 +72,13 @@ function change_schedule_year(){
                 team = '<td>' + away_team + '</td>';
                 badge = current_schedule[i]['away_team']['badge'].split(' ')[1]
                 result = current_schedule[i]['home_team']['result'];
+                score = current_schedule[i]['home_team']['goals'] + '-' + current_schedule[i]['away_team']['goals'];
             } else if (away_team == 'Spurs'){
                 team = '<td>' + home_team + ' (A) </td>';
                 badge = current_schedule[i]['home_team']['badge'].split(' ')[1];
                 badge += ' (A)'
                 result = current_schedule[i]['away_team']['result'];
+                score = current_schedule[i]['away_team']['goals'] + '-' + current_schedule[i]['home_team']['goals'];
             } else {
                 continue
             }
@@ -95,7 +97,7 @@ function change_schedule_year(){
                 points = 0;
             }
             if ('score' in current_schedule[i]){
-                score = '<td class="' + result + '">' + current_schedule[i]['score'] +  '</td>';
+                score = '<td class="' + result + '">' + score +  '</td>';
             } else {
                 score = '<td></td>'
             }
@@ -108,7 +110,6 @@ function change_schedule_year(){
         }// end current_schedule for loop
 
         for (i = 0; i < prev_schedule.length; i++){
-
             home_team = prev_schedule[i]['home_team']['team'];
             away_team = prev_schedule[i]['away_team']['team'];
             home_badge = prev_schedule[i]['home_team']['badge'].split(' ')[1];
@@ -117,18 +118,20 @@ function change_schedule_year(){
             if (home_team == 'Spurs'){
                 team = '<td>' + away_team + '</td>';
                 result = prev_schedule[i]['home_team']['result'];
+                score = prev_schedule[i]['home_team']['goals'] + '-' + prev_schedule[i]['away_team']['goals'];
                 if (away_badge in rel_teams){
-                    badge = rel_teams[away_badge] + ' (A)'
+                    badge = rel_teams[away_badge]
                 } else {
-                    badge = away_badge + ' (A)'
+                    badge = away_badge
                 }
             } else if (away_team == 'Spurs'){
-                team = '<td>' + home_team + ' (A) </td>';
+                team = '<td>' + home_team + ' (A)</td>';
                 result = prev_schedule[i]['away_team']['result'];
+                score = prev_schedule[i]['away_team']['goals'] + '-' + prev_schedule[i]['home_team']['goals'];
                 if (home_badge in rel_teams){
-                    badge = rel_teams[home_badge]
+                    badge = rel_teams[home_badge] + ' (A)'
                 } else {
-                    badge = home_badge
+                    badge = home_badge + ' (A)'
                 }
             } else {
                 continue
@@ -148,7 +151,7 @@ function change_schedule_year(){
                 points = 0;
             }
             if ('score' in prev_schedule[i]){
-                score = '<td class="' + result + '">' + prev_schedule[i]['score'] +  '</td>';
+                score = '<td class="' + result + '">' + score +  '</td>';
             } else {
                 score = '<td></td>'
             }
@@ -174,12 +177,23 @@ function change_schedule_year(){
             } else {
                 new_row += '<td></td>'
             }
+
+            if ('prev_points' in match){
+                prev_points += match['prev_points']
+            } else {
+                prev_points += 0
+            }
             new_row += match['score'];
-            current_points += match['points']
-            new_row += '<td>' + current_points + '</td>';
-            new_row += '<td>' + current_points + '</td>';
-            new_row += '<td>' + current_points / (i + 1) * keys.length + '</td>';
-            new_row += '</tr>';
+            if (match['score'] != '<td></td>'){
+                current_points += match['points']
+                new_row += '<td>' + current_points + '</td>';
+                new_row += '<td>' + (current_points - prev_points) + '</td>';
+                new_row += '<td>' + Math.round((current_points / (i + 1) * keys.length) * 10) / 10 + '</td>';
+                new_row += '</tr>';
+            } else {
+                new_row += '<td></td><td></td><td></td></tr>';
+            }
+
             $('#schedule_table tbody').append(new_row);
         }
 

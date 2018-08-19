@@ -2,68 +2,98 @@
   {
     "away_team": {
       "badge": "badge-25 t4",
+      "goals": 0,
+      "result": "D",
       "team": "Newcastle"
     },
     "date": "Saturday 18 August 2018",
     "home_team": {
       "badge": "badge-25 t97",
+      "goals": 0,
+      "result": "D",
       "team": "Cardiff"
-    }
+    },
+    "score": "0-0"
   },
   {
     "away_team": {
       "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
       "team": "Southampton"
     },
     "date": "Saturday 18 August 2018",
     "home_team": {
       "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "W",
       "team": "Everton"
-    }
+    },
+    "score": "2-1"
   },
   {
     "away_team": {
       "badge": "badge-25 t39",
+      "goals": 0,
+      "result": "L",
       "team": "Wolves"
     },
     "date": "Saturday 18 August 2018",
     "home_team": {
       "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
       "team": "Leicester"
-    }
+    },
+    "score": "2-0"
   },
   {
     "away_team": {
       "badge": "badge-25 t54",
+      "goals": 1,
+      "result": "L",
       "team": "Fulham"
     },
     "date": "Saturday 18 August 2018",
     "home_team": {
       "badge": "badge-25 t6",
+      "goals": 3,
+      "result": "W",
       "team": "Spurs"
-    }
+    },
+    "score": "3-1"
   },
   {
     "away_team": {
       "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "W",
       "team": "Bournemouth"
     },
     "date": "Saturday 18 August 2018",
     "home_team": {
       "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
       "team": "West Ham"
-    }
+    },
+    "score": "1-2"
   },
   {
     "away_team": {
       "badge": "badge-25 t3",
+      "goals": 2,
+      "result": "L",
       "team": "Arsenal"
     },
     "date": "Saturday 18 August 2018",
     "home_team": {
       "badge": "badge-25 t8",
+      "goals": 3,
+      "result": "W",
       "team": "Chelsea"
-    }
+    },
+    "score": "3-2"
   },
   {
     "away_team": {
