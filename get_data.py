@@ -121,8 +121,12 @@ def update_table(**kwargs):
     chrome_options.add_argument("--headless")
     chrome_options.add_argument('--disable-gpu')
     chrome_options.add_argument('--log-level=3')
+    if os.name == 'nt':
+        path = 'chromedriver.exe'
+    else:
+        path = os.getcwd() + r'/chromedriver'
     browser = webdriver.Chrome(chrome_options=chrome_options,
-                               executable_path=r'chromedriver')
+                               executable_path=path)
 
     table = []
     base_url = 'https://www.premierleague.com/tables'
@@ -454,15 +458,19 @@ def update_fixtures(**kwargs):
     chrome_options.add_argument("--headless")
     chrome_options.add_argument('--disable-gpu')
     chrome_options.add_argument('--log-level=3')
+    if os.name == 'nt':
+        path = 'chromedriver.exe'
+    else:
+        path = os.getcwd() + r'/chromedriver'
     browser = webdriver.Chrome(chrome_options=chrome_options,
-                               executable_path=r'chromedriver.exe')
+                               executable_path=path)
 
     base_url = 'https://www.premierleague.com/'
     start_year = 2018
     end_year = 2019
     current_season_key = '{}-{}'.format(start_year, end_year)
 
-    with open('results\\premier_league_results_{}.json'.format(current_season_key)) as fp:
+    with open('results{}premier_league_results_{}.json'.format(os.sep, current_season_key)) as fp:
         current_results = json.load(fp)
 
     results_dict = {}
@@ -553,13 +561,13 @@ if __name__ == "__main__":
     # get_team_names()
     # get_all_fixtures()
     # get_all_tables()
-    # update_fixtures()
-    # update_table()
+    update_fixtures()
+    update_table()
 
-    base_url = 'https://www.premierleague.com/resources/ver/'
-    with urllib.request.urlopen(base_url + 'styles/badge-abbreviations.css') as response:
-        html = response.read()
-        print(html.decode())
-
-    with open('badge-abbreviations.css', 'w') as fp:
-        fp.write(html.decode())
+    # base_url = 'https://www.premierleague.com/resources/ver/'
+    # with urllib.request.urlopen(base_url + 'styles/badge-abbreviations.css') as response:
+    #     html = response.read()
+    #     print(html.decode())
+    #
+    # with open('badge-abbreviations.css', 'w') as fp:
+    #     fp.write(html.decode())

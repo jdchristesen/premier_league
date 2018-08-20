@@ -202,6 +202,68 @@ function change_schedule_year(){
                 $(this).find('td:eq(0)').text(index)
             }
         })
-    });
 
+        var nodes = [];
+        var max_points = 0;
+
+        $("#schedule_table tbody tr:gt(0)").each(function(index){
+            var x_loc = Number($(":eq(0)", this).text());
+            var y_loc = Number($(":eq(5)", this).text());
+            if (y_loc > max_points){
+                max_points = y_loc;
+            }
+            console.log($(":eq(0)", this).text(), $(":eq(5)", this).text());
+            console.log(x_loc, y_loc);
+            if (!isNaN(x_loc) && !isNaN(y_loc)){
+                nodes[index] = {x: Number($(":eq(0)", this).text()),
+                                y: Number($(":eq(5)", this).text())};
+            }
+        });
+
+        c_radius = 5;
+        c_diameter = c_radius*2;
+
+        var margin = {top: 20, right: 30, bottom: 30, left: 40},
+            width = 900 - margin.left - margin.right,
+            height = 600 - margin.top - margin.bottom;
+        var x_scale = d3.scale.linear()
+            .domain([0, 39])
+            .range([0, width]);
+        var y_scale = d3.scale.linear()
+            .domain([0, max_points + max_points*0.2])
+            .range([height - c_diameter, 0]);
+
+        var x_axis = d3.svg.axis()
+            .scale(x_scale)
+            .orient("bottom");
+
+        var y_axis = d3.svg.axis()
+            .scale(y_scale)
+            .orient("left");
+
+        var vis = d3.select("#graph")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        vis.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(x_axis);
+
+        vis.append("g")
+            .attr("class", "y axis")
+            .call(y_axis)
+
+        vis.selectAll("circle")
+           .data(nodes)
+           .enter()
+           .append("svg:circle")
+           .attr("cx", function(d) { return x_scale(d.x); })
+           .attr("cy", function(d) { return y_scale(d.y); })
+           .attr("r", c_radius.toString() + "px")
+           .attr("fill", "steelblue");
+    });
 }
