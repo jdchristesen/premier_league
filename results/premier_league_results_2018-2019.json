@@ -98,46 +98,66 @@
   {
     "away_team": {
       "badge": "badge-25 t57",
+      "goals": 3,
+      "result": "W",
       "team": "Watford"
     },
     "date": "Sunday 19 August 2018",
     "home_team": {
       "badge": "badge-25 t90",
+      "goals": 1,
+      "result": "L",
       "team": "Burnley"
-    }
+    },
+    "score": "1-3"
   },
   {
     "away_team": {
       "badge": "badge-25 t38",
+      "goals": 1,
+      "result": "L",
       "team": "Huddersfield"
     },
     "date": "Sunday 19 August 2018",
     "home_team": {
       "badge": "badge-25 t43",
+      "goals": 6,
+      "result": "W",
       "team": "Man City"
-    }
+    },
+    "score": "6-1"
   },
   {
     "away_team": {
       "badge": "badge-25 t1",
+      "goals": 2,
+      "result": "L",
       "team": "Man Utd"
     },
     "date": "Sunday 19 August 2018",
     "home_team": {
       "badge": "badge-25 t36",
+      "goals": 3,
+      "result": "W",
       "team": "Brighton"
-    }
+    },
+    "score": "3-2"
   },
   {
     "away_team": {
       "badge": "badge-25 t14",
+      "goals": 2,
+      "result": "W",
       "team": "Liverpool"
     },
     "date": "Monday 20 August 2018",
     "home_team": {
       "badge": "badge-25 t31",
+      "goals": 0,
+      "result": "L",
       "team": "Crystal Palace"
-    }
+    },
+    "score": "0-2"
   },
   {
     "away_team": {

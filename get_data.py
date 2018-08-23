@@ -545,7 +545,7 @@ def update_fixtures(**kwargs):
         current_results[results_dict[key][0]] = result
         print(result)
 
-    with open('results\\premier_league_results_{}.json'.format(current_season_key), 'w') as fp:
+    with open('results{}premier_league_results_{}.json'.format(os.sep, current_season_key), 'w') as fp:
         json.dump(current_results, fp, indent=2, sort_keys=True)
 
     print('Total Time: ', time.time() - start_time)
