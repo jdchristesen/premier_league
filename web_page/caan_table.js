@@ -2,11 +2,34 @@ var json_file;
 var schedule_years = [];
 
 $(document).ready(function(){
-     $.when(
-        $.getJSON('premier_league_tables.json'),
-        $.getJSON('badge_pos.json')
-    ).done(function(tables, badge_positions) {
-        current_table = tables[0]['2018-2019'];
+      for (i = 2018; i > 1992; i--){
+        var years = i + '-' + (i + 1)
+        $('#year_dropdown').append('<option value=\'' + years + '\'>' + years + '</option>\n');
+        $('#' + years).click(function(){ change_year(); return false; });
+    }
+    change_year()
+});
+
+function change_year(){
+    var year = $('#year_dropdown').find(':selected').text();
+    var prev_year = $('#year_dropdown').find(':selected').next().text();
+    var months = {'January': '01', 'February': '02', 'March': '03', 'April': '04',
+    'May': '05', 'June': '06', 'July': '07', 'August': '08', 'September': '09',
+    'October': '10', 'November': '11', 'December': '12'};
+
+     $( "#caan_table tbody tr:gt(0)" ).each( function(){
+        this.parentNode.removeChild( this );
+    });
+
+    $( "#caan_table tbody tr th:gt(0)" ).each( function(){
+        this.parentNode.removeChild( this );
+    });
+
+
+    $.when(
+        $.getJSON('../premier_league_tables.json')
+    ).done(function(tables) {
+        current_table = tables[year];
         caan_table = {};
         max_teams = 0;
         max_points = 0;
@@ -24,10 +47,6 @@ $(document).ready(function(){
             }
         }
 
-        console.log(caan_table)
-        console.log(max_teams)
-        console.log(max_points)
-
         header = ''
         for (i = 0; i < max_teams; i++){
             header += '<th></th>';
@@ -37,15 +56,14 @@ $(document).ready(function(){
 
         for (i = max_points; i > -1; i--){
             new_row = '<tr><td>' + i +'</td>';
-//            console.log(caan_table[i.toString()]);
             columns = 0
             if (i.toString() in caan_table){
                 teams = caan_table[i.toString()];
-                console.log(teams);
                 for (j = 0; j < teams.length; j++){
-//                    new_row += '<td>' + teams[j] + '</td>';
-                    background_pos = badge_positions[0][teams[j]][0] + 'px ' + badge_positions[0][teams[j]][1] + 'px'
-                    new_row += '<td><span style="background-image: url(\'images/badges-50-sprite.png\'); background-position: ' + background_pos + '; width:50px;height:50px;display:inline-block;vertical-align:middle"></span></td>'
+                    var t = teams[j].split('.')
+                    var c = t[1] + ' ' + t[2];
+                    new_row += '<td><span class="' + c + '"/></td>';
+                    console.log(new_row);
                     columns += 1
                 }
             }
@@ -59,4 +77,5 @@ $(document).ready(function(){
         }
 
     });
-});
+
+}

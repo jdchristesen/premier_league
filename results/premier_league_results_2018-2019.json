@@ -162,35 +162,50 @@
   {
     "away_team": {
       "badge": "badge-25 t43",
+      "goals": 1,
+      "result": "D",
       "team": "Man City"
     },
     "date": "Saturday 25 August 2018",
     "home_team": {
       "badge": "badge-25 t39",
+      "goals": 1,
+      "result": "D",
       "team": "Wolves"
-    }
+    },
+    "score": "1-1"
   },
   {
     "away_team": {
       "badge": "badge-25 t21",
+      "goals": 1,
+      "result": "L",
       "team": "West Ham"
     },
     "date": "Saturday 25 August 2018",
     "home_team": {
       "badge": "badge-25 t3",
+      "goals": 3,
+      "result": "W",
       "team": "Arsenal"
-    }
+    },
+    "score": "3-1"
   },
   {
     "away_team": {
       "badge": "badge-25 t11",
+      "goals": 2,
+      "result": "D",
       "team": "Everton"
     },
     "date": "Saturday 25 August 2018",
     "home_team": {
       "badge": "badge-25 t91",
+      "goals": 2,
+      "result": "D",
       "team": "Bournemouth"
-    }
+    },
+    "score": "2-2"
   },
   {
     "away_team": {
@@ -206,35 +221,50 @@
   {
     "away_team": {
       "badge": "badge-25 t97",
+      "goals": 0,
+      "result": "D",
       "team": "Cardiff"
     },
     "date": "Saturday 25 August 2018",
     "home_team": {
       "badge": "badge-25 t38",
+      "goals": 0,
+      "result": "D",
       "team": "Huddersfield"
-    }
+    },
+    "score": "0-0"
   },
   {
     "away_team": {
       "badge": "badge-25 t13",
+      "goals": 2,
+      "result": "W",
       "team": "Leicester"
     },
     "date": "Saturday 25 August 2018",
     "home_team": {
       "badge": "badge-25 t20",
+      "goals": 1,
+      "result": "L",
       "team": "Southampton"
-    }
+    },
+    "score": "1-2"
   },
   {
     "away_team": {
       "badge": "badge-25 t36",
+      "goals": 0,
+      "result": "L",
       "team": "Brighton"
     },
     "date": "Saturday 25 August 2018",
     "home_team": {
       "badge": "badge-25 t14",
+      "goals": 1,
+      "result": "W",
       "team": "Liverpool"
-    }
+    },
+    "score": "1-0"
   },
   {
     "away_team": {

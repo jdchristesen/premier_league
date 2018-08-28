@@ -110,68 +110,6 @@ def get_all_tables(**kwargs):
             json.dump(table, fp, indent=2, sort_keys=True)
 
 
-def update_table(**kwargs):
-    from selenium import webdriver
-    from selenium.webdriver.chrome.options import Options
-    import time
-    start_time = time.time()
-
-    # --| Setup
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument('--disable-gpu')
-    chrome_options.add_argument('--log-level=3')
-    if os.name == 'nt':
-        path = 'chromedriver.exe'
-    else:
-        path = os.getcwd() + r'/chromedriver'
-    browser = webdriver.Chrome(chrome_options=chrome_options,
-                               executable_path=path)
-
-    table = []
-    base_url = 'https://www.premierleague.com/tables'
-    browser.get(base_url)
-    time.sleep(1)
-    start_year = 2018
-    end_year = 2019
-    season_key = '{}-{}'.format(start_year, end_year)
-
-    with open('premier_league_tables.json') as fp:
-        tables = json.load(fp)
-
-    print(season_key)
-
-    table_html = browser.find_element_by_tag_name('table')
-    rows = table_html.find_elements_by_tag_name('tr')
-    while len(rows) < 20:
-        table_html = browser.find_element_by_tag_name('table')
-        rows = table_html.find_elements_by_tag_name('tr')
-
-    for row in rows:
-        if row.get_attribute('data-compseason') != '210':
-            continue
-        team_data = row.text.split('\n')[1].split()
-        badge = row.find_element_by_xpath('.//span[starts-with(@class, "badge")]').get_attribute('class').split()[1]
-        print(badge)
-        team = {'badge': badge,
-                'place': int(row.text.split('\n')[0]),
-                'team': ' '.join(team_data[:-8]),
-                'played': int(team_data[-8]),
-                'won': int(team_data[-7]),
-                'drawn': int(team_data[-6]),
-                'lost': int(team_data[-5]),
-                'gf': int(team_data[-4]),
-                'ga': int(team_data[-3]),
-                'gd': int(team_data[-2]),
-                'points': int(team_data[-1])
-                }
-        table.append(team)
-
-    tables[season_key] = table
-    with open('premier_league_tables.json'.format(season_key),'w') as fp:
-        json.dump(tables, fp, indent=2, sort_keys=True)
-
-
 def team_seasons(**kwargs):
     team_name = kwargs.get('team_name', 'Tottenham Hotspur')
     start_year = kwargs.get('start_year', 2015)
@@ -473,13 +411,14 @@ def update_fixtures(**kwargs):
     with open('results{}premier_league_results_{}.json'.format(os.sep, current_season_key)) as fp:
         current_results = json.load(fp)
 
+    print(current_results)
     results_dict = {}
     for i, result in enumerate(current_results):
         key = '{}-{}'.format(result['home_team']['team'], result['away_team']['team'])
         results_dict[key] = [i, True if 'score' in result else False]
 
-    browser.get(base_url + 'fixtures')
-    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    # browser.get(base_url + 'fixtures')
+    # browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
     print(current_season_key)
     start_year -= 1
@@ -490,13 +429,14 @@ def update_fixtures(**kwargs):
     results = browser.find_element_by_class_name('fixtures')
     results = results.find_elements_by_class_name('matchFixtureContainer')
     count = -1
-    while len(results) != count:
+    while len(results) != count and len(results) == 0:
+        print(len(results))
         count = len(results)
-        time.sleep(2)
+        time.sleep(10)
         results = browser.find_element_by_class_name('fixtures')
         results = results.find_elements_by_class_name('matchFixtureContainer')
-
     print(len(results))
+
     for r in results:
         result = {}
         parent = r.find_element_by_xpath('..')
@@ -514,7 +454,6 @@ def update_fixtures(**kwargs):
             continue
         if results_dict[key][1]:
             continue
-
 
         home_team = {'team': split[0],
                      'goals': home_score}
@@ -543,12 +482,83 @@ def update_fixtures(**kwargs):
         result['home_team'] = home_team
         result['away_team'] = away_team
         current_results[results_dict[key][0]] = result
-        print(result)
-
-    with open('results{}premier_league_results_{}.json'.format(os.sep, current_season_key), 'w') as fp:
-        json.dump(current_results, fp, indent=2, sort_keys=True)
+        print('{} {} {}-{} {}'.format(date, home_team['team'], home_score, away_score, away_team['team']))
 
     print('Total Time: ', time.time() - start_time)
+    save = input('Save the data?')
+    if 'n' not in save.lower() and 'y' in save.lower():
+        print('Saving data')
+        with open('results{}premier_league_results_{}.json'.format(os.sep, current_season_key), 'w') as fp:
+            json.dump(current_results, fp, indent=2, sort_keys=True)
+    else:
+        print('NOT Saving Data')
+
+
+def update_table(**kwargs):
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+    import time
+    start_time = time.time()
+
+    # --| Setup
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument('--disable-gpu')
+    chrome_options.add_argument('--log-level=3')
+    if os.name == 'nt':
+        path = 'chromedriver.exe'
+    else:
+        path = os.getcwd() + r'/chromedriver'
+    browser = webdriver.Chrome(chrome_options=chrome_options,
+                               executable_path=path)
+
+    table = []
+    base_url = 'https://www.premierleague.com/tables'
+    browser.get(base_url)
+    time.sleep(1)
+    start_year = 2018
+    end_year = 2019
+    season_key = '{}-{}'.format(start_year, end_year)
+
+    with open('premier_league_tables.json') as fp:
+        tables = json.load(fp)
+
+    print(season_key)
+
+    table_html = browser.find_element_by_tag_name('table')
+    rows = table_html.find_elements_by_tag_name('tr')
+    while len(rows) < 20:
+        table_html = browser.find_element_by_tag_name('table')
+        rows = table_html.find_elements_by_tag_name('tr')
+
+    for row in rows:
+        if row.get_attribute('data-compseason') != '210':
+            continue
+        team_data = row.text.split('\n')[1].split()
+        badge = row.find_element_by_xpath('.//span[starts-with(@class, "badge")]').get_attribute('class').split()[1]
+        team = {'badge': badge,
+                'place': int(row.text.split('\n')[0]),
+                'team': ' '.join(team_data[:-8]),
+                'played': int(team_data[-8]),
+                'won': int(team_data[-7]),
+                'drawn': int(team_data[-6]),
+                'lost': int(team_data[-5]),
+                'gf': int(team_data[-4]),
+                'ga': int(team_data[-3]),
+                'gd': int(team_data[-2]),
+                'points': int(team_data[-1])
+                }
+        table.append(team)
+        print('({}) {}'.format(team['team'], team['place']))
+
+    tables[season_key] = table
+    save = input('Save data?')
+    if 'n' not in save.lower() and 'y' in save.lower():
+        print('Saving data')
+        with open('premier_league_tables.json'.format(season_key),'w') as fp:
+            json.dump(tables, fp, indent=2, sort_keys=True)
+    else:
+        print('NOT saving data.')
 
 
 if __name__ == "__main__":
@@ -562,7 +572,7 @@ if __name__ == "__main__":
     # get_all_fixtures()
     # get_all_tables()
     update_fixtures()
-    update_table()
+    # update_table()
 
     # base_url = 'https://www.premierleague.com/resources/ver/'
     # with urllib.request.urlopen(base_url + 'styles/badge-abbreviations.css') as response:

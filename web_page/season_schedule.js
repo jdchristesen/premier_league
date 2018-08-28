@@ -1,19 +1,36 @@
 var json_file;
 var schedule_years = [];
+var team_badge_dict = {};
 
 $(document).ready(function(){
-
     for (i = 2018; i > 1992; i--){
-        var years = i + '-' + (i + 1)
-        $('#schedule_year_dropdown').append('<option value=\'' + years + '\'>' + years + '</option>\n');
-        $('#' + years).click(function(){ change_schedule_year(); return false; });
-    }
-    change_schedule_year()
+            var years = i + '-' + (i + 1)
+            $('#year_dropdown').append('<option value=\'' + years + '\'>' + years + '</option>\n');
+        }
+    populate_team_dropdown();
 });
 
-function change_schedule_year(){
-    var year = $('#schedule_year_dropdown').find(':selected').text();
-    var prev_year = $('#schedule_year_dropdown').find(':selected').next().text();
+function populate_team_dropdown(){
+    $('#team_dropdown').empty();
+    var year = $('#year_dropdown').find(':selected').text();
+    $.when(
+        $.getJSON('../premier_league_tables.json')
+    ).done(function(tables) {
+        for (i = 0; i < tables[year].length; i++){
+            team_badge_dict[tables[year][i]['team']] = tables[year][i]['badge'];
+            $('#team_dropdown').append('<option value=\'' + tables[year][i]['team'] + '\'>' + tables[year][i]['team'] + '</option>\n');
+            if (i == 0){
+                $('#' + team_badge_dict[tables[year][i]['team']]).prop('selected', true);
+            }
+        }
+        change_table();
+    });
+}
+
+function change_table(current_schedule, prev_schedule, tables){
+    var year = $('#year_dropdown').find(':selected').text();
+    var prev_year = $('#year_dropdown').find(':selected').next().text();
+    var current_team = $('#team_dropdown').find(':selected').text();
     var months = {'January': '01', 'February': '02', 'March': '03', 'April': '04',
     'May': '05', 'June': '06', 'July': '07', 'August': '08', 'September': '09',
     'October': '10', 'November': '11', 'December': '12'};
@@ -22,13 +39,15 @@ function change_schedule_year(){
         this.parentNode.removeChild( this );
     });
 
+    $('#graph').empty();
+
     var matches = {};
     var team_badges = {};
 
     $.when(
-        $.getJSON('results/premier_league_results_' + year + '.json'),
-        $.getJSON('results/premier_league_results_' + prev_year + '.json'),
-        $.getJSON('premier_league_tables.json')
+        $.getJSON('../results/premier_league_results_' + year + '.json'),
+        $.getJSON('../results/premier_league_results_' + prev_year + '.json'),
+        $.getJSON('../premier_league_tables.json')
     ).done(function(current_schedule, prev_schedule, tables) {
         var current_schedule = current_schedule[0];
         var prev_schedule = prev_schedule[0];
@@ -67,16 +86,17 @@ function change_schedule_year(){
 
             home_team = current_schedule[i]['home_team']['team'];
             away_team = current_schedule[i]['away_team']['team'];
+            home_badge = current_schedule[i]['home_team']['badge'].split(' ')[1];
+            away_badge = current_schedule[i]['away_team']['badge'].split(' ')[1];
 
-            if (home_team == 'Spurs'){
-                team = '<td>' + away_team + '</td>';
-                badge = current_schedule[i]['away_team']['badge'].split(' ')[1]
+            if (home_badge == team_badge_dict[current_team]){
+                team = '<td>' + away_team + '<span class="badge-20 ' + away_badge + '"/></td>';
+                badge = away_badge
                 result = current_schedule[i]['home_team']['result'];
                 score = current_schedule[i]['home_team']['goals'] + '-' + current_schedule[i]['away_team']['goals'];
-            } else if (away_team == 'Spurs'){
-                team = '<td>' + home_team + ' (A) </td>';
-                badge = current_schedule[i]['home_team']['badge'].split(' ')[1];
-                badge += ' (A)'
+            } else if (away_badge == team_badge_dict[current_team]){
+                team = '<td>' + home_team + ' (A)<span class="badge-20 ' + home_badge + '"/></td>';
+                badge = home_badge + ' (A)'
                 result = current_schedule[i]['away_team']['result'];
                 score = current_schedule[i]['away_team']['goals'] + '-' + current_schedule[i]['home_team']['goals'];
             } else {
@@ -115,7 +135,7 @@ function change_schedule_year(){
             home_badge = prev_schedule[i]['home_team']['badge'].split(' ')[1];
             away_badge = prev_schedule[i]['away_team']['badge'].split(' ')[1];
 
-            if (home_team == 'Spurs'){
+            if (home_badge == team_badge_dict[current_team]){
                 team = '<td>' + away_team + '</td>';
                 result = prev_schedule[i]['home_team']['result'];
                 score = prev_schedule[i]['home_team']['goals'] + '-' + prev_schedule[i]['away_team']['goals'];
@@ -124,7 +144,7 @@ function change_schedule_year(){
                 } else {
                     badge = away_badge
                 }
-            } else if (away_team == 'Spurs'){
+            } else if (away_badge == team_badge_dict[current_team]){
                 team = '<td>' + home_team + ' (A)</td>';
                 result = prev_schedule[i]['away_team']['result'];
                 score = prev_schedule[i]['away_team']['goals'] + '-' + prev_schedule[i]['home_team']['goals'];
@@ -212,8 +232,6 @@ function change_schedule_year(){
             if (y_loc > max_points){
                 max_points = y_loc;
             }
-            console.log($(":eq(0)", this).text(), $(":eq(5)", this).text());
-            console.log(x_loc, y_loc);
             if (!isNaN(x_loc) && !isNaN(y_loc)){
                 nodes[index] = {x: Number($(":eq(0)", this).text()),
                                 y: Number($(":eq(5)", this).text())};
