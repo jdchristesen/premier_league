@@ -572,7 +572,7 @@ if __name__ == "__main__":
     # get_all_fixtures()
     # get_all_tables()
     update_fixtures()
-    # update_table()
+    update_table()
 
     # base_url = 'https://www.premierleague.com/resources/ver/'
     # with urllib.request.urlopen(base_url + 'styles/badge-abbreviations.css') as response:
